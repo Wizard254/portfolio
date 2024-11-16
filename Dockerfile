@@ -15,7 +15,7 @@ RUN pnpm install
 COPY . .
 
 # Build the app for production
-# RUN pnpm run build
+RUN pnpm run build
 
 # vite preview --port 8080
 EXPOSE 8080
