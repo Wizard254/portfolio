@@ -5,6 +5,8 @@ This portfolio showcases my work, skills, and projects built using modern web te
 Built with `Vite.js`, it offers a fast, dynamic user experience to help potential employers 
 and collaborators learn more about me.
 
+> Prefer a UI? You can browse a deployed version of the portfolio at: https://najwang.devhive.buzz
+
 ---
 
 ## 🚀 Features
